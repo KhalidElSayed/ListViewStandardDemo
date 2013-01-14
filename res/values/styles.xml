@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="listview_style" parent="@android:style/Widget.ListView">
+        <!-- <item name="android:listSelector">@drawable/list_item_bg_selecter</item> -->
+        <item name="android:divider">@drawable/line</item><!-- @drawable/list_item_line -->
+        <item name="android:cacheColorHint">@null</item>
+    </style>
+
+</resources>
